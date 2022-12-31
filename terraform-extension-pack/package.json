@@ -1,0 +1,23 @@
+{
+  "name": "terraform-extension-pack",
+  "displayName": "Terraform Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "narze",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narze/vscode-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "4ops.terraform",
+    "erd0s.terraform-autocomplete",
+    "hashicorp.terraform",
+    "hashicorp.hcl"
+  ]
+}
