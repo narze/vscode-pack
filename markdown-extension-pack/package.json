@@ -1,0 +1,35 @@
+{
+  "name": "markdown-extension-pack",
+  "displayName": "Markdown Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "narze",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narze/vscode-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bierner.github-markdown-preview",
+    "bierner.markdown-checkbox",
+    "bierner.markdown-emoji",
+    "bierner.markdown-footnotes",
+    "bierner.markdown-mermaid",
+    "bierner.markdown-preview-github-styles",
+    "bierner.markdown-yaml-preamble",
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+    "DavidAnson.vscode-markdownlint",
+    "kortina.vscode-markdown-notes",
+    "shd101wyy.markdown-preview-enhanced",
+    "silvenon.mdx",
+    "tchayen.markdown-links",
+    "vstirbu.vscode-mermaid-preview",
+    "xyc.vscode-mdx-preview",
+    "yzhang.markdown-all-in-one"
+  ]
+}
