@@ -1,6 +1,6 @@
 {
-  "name": "rust-extension-pack",
-  "displayName": "Rust Extension Pack",
+  "name": "my-rust-extension-pack",
+  "displayName": "narze - Rust Extension Pack",
   "description": "",
   "version": "0.0.1",
   "publisher": "narze",

@@ -1,6 +1,6 @@
 {
-  "name": "elixir-extension-pack",
-  "displayName": "Elixir Extension Pack",
+  "name": "my-elixir-extension-pack",
+  "displayName": "narze - Elixir Extension Pack",
   "description": "",
   "version": "0.0.1",
   "publisher": "narze",
@@ -14,11 +14,11 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
-    "JakeBecker.elixir-ls", 
-    "mjmcloug.vscode-elixir", 
+  "extensionPack": [
+    "JakeBecker.elixir-ls",
+    "mjmcloug.vscode-elixir",
     "saratravi.elixir-formatter",
-    "pgourlain.erlang", 
+    "pgourlain.erlang",
     "yuce.erlang-otp"
   ]
 }

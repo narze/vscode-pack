@@ -1,6 +1,6 @@
 {
-  "name": "python-extension-pack",
-  "displayName": "Python Extension Pack",
+  "name": "my-python-extension-pack",
+  "displayName": "narze - Python Extension Pack",
   "description": "",
   "version": "0.0.1",
   "publisher": "narze",
@@ -21,3 +21,4 @@
     "ms-toolsai.jupyter-keymap"
   ]
 }
+2

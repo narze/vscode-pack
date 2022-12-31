@@ -1,0 +1,28 @@
+{
+  "name": "narze-extension-packs",
+  "displayName": "narze - All Extension Packs",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "narze",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narze/vscode-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "narze.my-elixir-extension-pack",
+    "narze.my-graphql-extension-pack",
+    "narze.my-js-ts-extension-pack",
+    "narze.my-markdown-extension-pack",
+    "narze.my-python-extension-pack",
+    "narze.my-ruby-extension-pack",
+    "narze.my-rust-extension-pack",
+    "narze.my-svelte-extension-pack",
+    "narze.my-terraform-extension-pack"
+  ]
+}

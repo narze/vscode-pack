@@ -1,6 +1,6 @@
 {
-  "name": "terraform-extension-pack",
-  "displayName": "Terraform Extension Pack",
+  "name": "my-terraform-extension-pack",
+  "displayName": "narze - Terraform Extension Pack",
   "description": "",
   "version": "0.0.1",
   "publisher": "narze",

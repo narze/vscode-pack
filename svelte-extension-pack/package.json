@@ -1,6 +1,6 @@
 {
-  "name": "svelte-extension-pack",
-  "displayName": "Svelte Extension Pack",
+  "name": "my-svelte-extension-pack",
+  "displayName": "narze - Svelte Extension Pack",
   "description": "",
   "version": "0.0.1",
   "publisher": "narze",
