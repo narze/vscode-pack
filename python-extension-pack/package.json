@@ -1,0 +1,23 @@
+{
+  "name": "python-extension-pack",
+  "displayName": "Python Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "narze",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narze/vscode-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.isort",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter-keymap"
+  ]
+}
