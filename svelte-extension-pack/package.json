@@ -1,0 +1,23 @@
+{
+  "name": "svelte-extension-pack",
+  "displayName": "Svelte Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "narze",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narze/vscode-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "svelte.svelte-vscode",
+    "ardenivanov.svelte-intellisense",
+    "fivethree.vscode-svelte-snippets",
+    "pivaszbs.svelte-autoimport"
+  ]
+}
