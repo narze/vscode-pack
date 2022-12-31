@@ -1,0 +1,33 @@
+{
+  "name": "my-ruby-extension-pack",
+  "displayName": "Ruby Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "narze",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narze/vscode-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aliariff.vscode-erb-beautify",
+    "bung87.vscode-gemfile",
+    "castwide.solargraph",
+    "Hridoy.rails-snippets",
+    "kaiwood.endwise",
+    "karunamurti.rspec-snippets",
+    "KoichiSasada.vscode-rdbg",
+    "misogi.ruby-rubocop",
+    "noku.rails-run-spec-vscode",
+    "rebornix.ruby",
+    "Shopify.ruby-extensions-pack",
+    "Shopify.ruby-lsp",
+    "sporto.rails-go-to-spec",
+    "wingrunr21.vscode-ruby"
+  ]
+}
