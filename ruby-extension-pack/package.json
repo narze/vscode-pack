@@ -2,7 +2,7 @@
   "name": "my-ruby-extension-pack",
   "displayName": "narze - Ruby Extension Pack",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "narze",
   "repository": {
     "type": "git",
@@ -25,10 +25,8 @@
     "KoichiSasada.vscode-rdbg",
     "misogi.ruby-rubocop",
     "noku.rails-run-spec-vscode",
-    "rebornix.ruby",
     "Shopify.ruby-extensions-pack",
     "Shopify.ruby-lsp",
-    "sporto.rails-go-to-spec",
-    "wingrunr21.vscode-ruby"
+    "sporto.rails-go-to-spec"
   ]
 }
