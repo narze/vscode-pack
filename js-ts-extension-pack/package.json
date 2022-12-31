@@ -1,0 +1,36 @@
+{
+  "name": "js-ts-extension-pack",
+  "displayName": "JS-TS Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "narze",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narze/vscode-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "andys8.jest-snippets",
+    "appcypher.astro",
+    "astro-build.astro-vscode",
+    "dbaeumer.vscode-eslint",
+    "denoland.vscode-deno",
+    "dsznajder.es7-react-js-snippets",
+    "firsttris.vscode-jest-runner",
+    "mgmcdermott.vscode-language-babel",
+    "Orta.vscode-jest",
+    "pmneo.tsimporter",
+    "Prisma.prisma",
+    "rbbit.typescript-hero",
+    "WallabyJs.dingo-vscode",
+    "WallabyJs.quokka-vscode",
+    "WallabyJs.wallaby-vscode",
+    "wix.vscode-import-cost",
+    "xabikos.JavaScriptSnippets"
+  ]
+}
