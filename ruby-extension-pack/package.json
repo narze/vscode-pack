@@ -2,7 +2,7 @@
   "name": "my-ruby-extension-pack",
   "displayName": "Ruby Extension Pack",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "narze",
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
     "bung87.vscode-gemfile",
     "castwide.solargraph",
     "Hridoy.rails-snippets",
+    "itarato.byesig",
     "kaiwood.endwise",
     "karunamurti.rspec-snippets",
     "KoichiSasada.vscode-rdbg",
