@@ -18,3 +18,9 @@ My extension packs for Visual Studio Code.
     ```
 
 1. Edit `package.json` -> `extensionPack`
+
+1. Publish
+
+   ```shell
+   vsce publish
+   ```
